@@ -5,7 +5,7 @@ $(function(){
             input : this.selector,
             yesText : 'Confirm',
             noText : 'Cancle',
-            range : "2010-2222",
+            range : "1410-1460",
             containerId : "#ponjika_container"
         }
         var settings = $.extend({}, defaults, options);
